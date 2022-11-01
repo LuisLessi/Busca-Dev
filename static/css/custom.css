@@ -1,0 +1,49 @@
+.main-heading {
+  font-size: 30px;
+  font-weight: 800px;
+  margin-bottom: 14px;
+}
+
+
+
+#carouselExampleDark {
+  width: 1200px;
+  margin-left: 70px;
+  margin-top: 10px;
+}
+
+.bg-gray {
+  background-color: #f2f2f2;
+}
+
+.box-card {
+  background-color: #fff;
+  box-shadow: 0px 4px 8px 0pxrgb(0, 0, 0 / 15%);
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+}
+
+.box-card .box-card-body {
+  padding: 28px 28px;
+}
+
+.box-card .box-card-body .box-card-heading {
+  font-size: 20px;
+  color: #2e2b6f;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.box-card .box-card-body p {
+  font-size: 14px;
+  font-weight: 400;
+  color: #888888;
+}
+
+.underline {
+  height: 4px;
+  width: 88px;
+  background-color: red;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
